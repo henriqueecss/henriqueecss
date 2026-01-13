@@ -18,8 +18,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=henriqueecss&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=henriqueecss&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henriqueecss&theme=tokyonight" />
+  <img width="19%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=henriqueecss&theme=tokyonight" />
+  <img width="19%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=henriqueecss&theme=tokyonight" />
 </p>
 
 ---
