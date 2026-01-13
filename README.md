@@ -1,10 +1,45 @@
-- 👋 Hi, I’m @henriqueecss
-- 👀 I’m interested in program languages and code.
-- 🌱 I’m currently learning computer science at Lavras Federal University in Brazil.
-- 💞️ I’m looking to collaborate on programming projects.
-- 📫 How to reach me - email: henrique.soares1@estudante.ufla.br
+<h1 align="center">👋 Hi, I'm Henrique</h1>
+<h3 align="center">Computer Science Student • Aspiring Software Engineer</h3>
 
-<!---
-henriqueecss/henriqueecss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  🎓 Federal University of Lavras (UFLA) <br>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,git&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=henriqueecss&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueecss&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🎯 Interested in **programming languages and software engineering**
+- 🛠️ Experience with **Java, C++, Python and Web basics**
+- 🤝 Open to collaborate on **academic or open-source projects**
+- 📚 Always learning and improving my problem-solving skills
+
+---
+
+## 📬 Contact
+
+<p align="center">
+  <a href="mailto:henrique.soares1@estudante.ufla.br">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/henriqueecss">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
