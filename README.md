@@ -7,34 +7,34 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cpp,python,js,html,react,django,tailwind,css,git&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henriqueecss&theme=tokyonight" />
-  <img width="19%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=henriqueecss&theme=tokyonight" />
-  <img width="19%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=henriqueecss&theme=tokyonight" />
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henriqueecss&theme=tokyonight" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=henriqueecss&theme=tokyonight" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=henriqueecss&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎯 Interested in **programming languages and software engineering**
-- 🛠️ Experience with **Java, C++, Python and Web basics**
-- 🤝 Open to collaborate on **academic or open-source projects**
-- 📚 Always learning and improving my problem-solving skills
+-  Interested in **programming languages and software engineering**
+-  Experience with **Java, C++, Python and Web basics**
+-  Open to collaborate on **academic or open-source projects**
+-  Always learning and improving my problem-solving skills
 
 ---
 
-## 📬 Contact
+## Contact 📬
 
 <p align="center">
   <a href="mailto:henrique.soares1@estudante.ufla.br">
